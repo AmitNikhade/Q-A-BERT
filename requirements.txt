@@ -1,0 +1,7 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.0+cpu
+torchvision
+tensorboard
+numpy==1.19.5
+tqdm
+transformers==4.5.1
